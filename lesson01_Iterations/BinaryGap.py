@@ -10,8 +10,9 @@ def solution(N):
             count_gap = 0
         if(i == '0'):
             count_gap = count_gap + 1
-            
+
     return count_maximum_gap
+
 
 print(solution(1041))       # 5
 print(solution(10))         # 1
