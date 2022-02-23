@@ -13,4 +13,8 @@ def solution(N):
             
     return count_maximum_gap
 
-print(solution(0))
+print(solution(1041))       # 5
+print(solution(10))         # 1
+print(solution(342))        # 1
+print(solution(20))         # 1
+print(solution(529))        # 1
